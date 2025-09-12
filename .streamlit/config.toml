@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#7294a3ff"        # Color principal (botones, sliders, selects)
+backgroundColor = "#1b0151ff"     # Color del fondo de la página
+secondaryBackgroundColor = "#7294a3ff" # Fondo de los paneles/sidebars
+textColor = "#fafafa"           # Color del texto

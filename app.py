@@ -40,7 +40,7 @@ fig.update_layout(
         type="date"
     )
 )
-
+fig.uptaded_layout(yaxis = dict(dtick=2))
 st.plotly_chart(fig, use_container_width=True)
 
 

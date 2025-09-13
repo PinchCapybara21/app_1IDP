@@ -26,7 +26,7 @@ else:
 
 fig.update_layout(
     xaxis_title="Tiempo (años)",
-    yaxis_title="Valor (%)",
+   ## yaxis_title="Valor (%)",
     font=dict(size=14),
     xaxis=dict(
         rangeselector=dict(
